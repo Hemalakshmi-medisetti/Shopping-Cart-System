@@ -1,10 +1,10 @@
-Shopping Cart System 🛒 
+# Shopping Cart System 🛒 
 
-Project Overview
+## Project Overview
 
 The Shopping Cart System is a console-based Python application that allows administrators to manage products and users to purchase products through a shopping cart.
 
-Technologies Used
+## Technologies Used
 
 - Python
 - Lists
@@ -13,9 +13,9 @@ Technologies Used
 - Functions and Basic Data Structures
 - List Operations
 
-Features
+## Features
 
-Admin Module
+### Admin Module
 
 - Add new products
 - Update existing products
@@ -23,7 +23,7 @@ Admin Module
 - View available products
 - View registered users
 
-User Module
+### User Module
 
 - View available products
 - Add products to cart
@@ -32,15 +32,17 @@ User Module
 - Calculate total amount
 - Checkout and place orders
 
-Project Structure
 
+## Project Structure
+```text
 Shopping-Cart-System/
 │
-├── shopping_cart.py
-├── README.md
-└── .gitignore
+├──shopping_cart.py
+├──README.md
+└──.gitignore
+```
 
-How to Run the Project
+## How to Run the Project
 
 1. Clone the repository.
 2. Open the project folder.
@@ -48,7 +50,7 @@ How to Run the Project
 
 python shopping_cart.py
 
-Future Enhancements
+## Future Enhancements
 
 - Add product quantity management.
 - Implement user login and registration.
